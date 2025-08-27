@@ -1,0 +1,1 @@
+//Store all the icons in an object with there svgs

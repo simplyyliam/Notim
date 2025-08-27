@@ -1,0 +1,1 @@
+//This is where the helper buttons would be: Close, Next, Active notes, etc.

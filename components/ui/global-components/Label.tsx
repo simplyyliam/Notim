@@ -1,0 +1,1 @@
+//This is a global label component for the names in the sidebar, command palette, etc. 
